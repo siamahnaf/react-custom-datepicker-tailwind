@@ -153,14 +153,4 @@ See [CONTRIBUTING.md](https://github.com/onesine/react-tailwindcss-datepicker/bl
 ## Official Documentation repo
 [https://github.com/onesine/react-tailwindcss-datepicker-doc](https://github.com/onesine/react-tailwindcss-datepicker-doc)
 
-## Thanks to
-- [Litepie Datepicker](https://litepie.com/)
-- [Vue Tailwind Datepicker](https://vue-tailwind-datepicker.com/)
-- [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [dayjs](https://day.js.org/)
 
-I thank you in advance for your contribution to this project.
-
-## License
-[MIT](LICENSE) Licensed. Copyright (c) Lewhe Onesine 2022.
