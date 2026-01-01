@@ -5,13 +5,13 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,
+    "outDir": "dist",
+    "declaration": true,
+    "declarationDir": "dist/esm/types",
     // Added
     "jsx": "react-jsx",
     "module": "ESNext",
-    "declaration": true,
-    "declarationDir": "types",
     "sourceMap": true,
-    "outDir": "dist",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "emitDeclarationOnly": true

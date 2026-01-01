@@ -1,6 +1,6 @@
 {
   "name": "react-custom-datepicker-tailwind",
-  "version": "1.2.6",
+  "version": "1.2.8",
   "description": "A simple react time picker ios style component🤷",
   "homepage": "https://github.com/siamahnaf/react-custom-datepicker-tailwind",
   "main": "dist/cjs/index.js",
